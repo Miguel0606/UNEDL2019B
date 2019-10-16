@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  *
  * @author mabc6
- */ 
+ */
 public class Operadores {
     
         public static void main(String[] args) {
