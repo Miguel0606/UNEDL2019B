@@ -8,11 +8,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 public class Matriz_2D {
-
-    /**
-     * @param args the command line arguments
-     */
-      // Complete the hourglassSum function below.
+    
     static int hourglassSum(int[][] arr) {
         int fila = arr.length;    
         int columna = arr.length;
@@ -37,7 +33,7 @@ public class Matriz_2D {
 
     public static void main(String[] args) throws IOException {
         
-        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(("C:\\Users\\Esbaide Hdez\\matriz2D-DS.txt")));
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(("C:\\Users\\mabc6\\matriz2D-DS.txt")));
 
         int[][] arr = new int[6][6];
 
