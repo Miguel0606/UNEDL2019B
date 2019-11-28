@@ -1,0 +1,11 @@
+C:\Users\mabc6\source\repos\Delegadosbn\bin\Debug\netcoreapp3.0\Delegadosbn.exe
+C:\Users\mabc6\source\repos\Delegadosbn\bin\Debug\netcoreapp3.0\Delegadosbn.deps.json
+C:\Users\mabc6\source\repos\Delegadosbn\bin\Debug\netcoreapp3.0\Delegadosbn.runtimeconfig.json
+C:\Users\mabc6\source\repos\Delegadosbn\bin\Debug\netcoreapp3.0\Delegadosbn.runtimeconfig.dev.json
+C:\Users\mabc6\source\repos\Delegadosbn\bin\Debug\netcoreapp3.0\Delegadosbn.dll
+C:\Users\mabc6\source\repos\Delegadosbn\bin\Debug\netcoreapp3.0\Delegadosbn.pdb
+C:\Users\mabc6\source\repos\Delegadosbn\obj\Debug\netcoreapp3.0\Delegadosbn.csprojAssemblyReference.cache
+C:\Users\mabc6\source\repos\Delegadosbn\obj\Debug\netcoreapp3.0\Delegadosbn.AssemblyInfoInputs.cache
+C:\Users\mabc6\source\repos\Delegadosbn\obj\Debug\netcoreapp3.0\Delegadosbn.AssemblyInfo.cs
+C:\Users\mabc6\source\repos\Delegadosbn\obj\Debug\netcoreapp3.0\Delegadosbn.dll
+C:\Users\mabc6\source\repos\Delegadosbn\obj\Debug\netcoreapp3.0\Delegadosbn.pdb
