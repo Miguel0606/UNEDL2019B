@@ -1,0 +1,9 @@
+C:\Users\mabc6\source\repos\Examen_Taller\obj\Debug\Examen_Taller.csprojAssemblyReference.cache
+C:\Users\mabc6\source\repos\Examen_Taller\obj\Debug\Examen_Taller.titulo.resources
+C:\Users\mabc6\source\repos\Examen_Taller\obj\Debug\Examen_Taller.Properties.Resources.resources
+C:\Users\mabc6\source\repos\Examen_Taller\obj\Debug\Examen_Taller.csproj.GenerateResource.cache
+C:\Users\mabc6\source\repos\Examen_Taller\bin\Debug\Examen_Taller.exe.config
+C:\Users\mabc6\source\repos\Examen_Taller\bin\Debug\Examen_Taller.exe
+C:\Users\mabc6\source\repos\Examen_Taller\bin\Debug\Examen_Taller.pdb
+C:\Users\mabc6\source\repos\Examen_Taller\obj\Debug\Examen_Taller.exe
+C:\Users\mabc6\source\repos\Examen_Taller\obj\Debug\Examen_Taller.pdb
